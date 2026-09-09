@@ -1,0 +1,15 @@
+{
+    "project_name": "",
+    "introduction_overview": "",
+    "problem_context": "",
+    "project_objectives": "",
+    "general_evaluation_criteria": "",
+    "project_notes": "",
+    "tools": "",
+    "topics": "",
+    "tasks": {},
+    "_copy_without_render": [
+        ".github/workflows/*",
+        ".vocareum/pytestplugin/*"
+    ]
+}

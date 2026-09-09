@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Generated labs (cookiecutter output should not land in the template repo)
+/dist/
