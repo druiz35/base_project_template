@@ -31,7 +31,8 @@
 
 **Time: {{ task.time }}**
 
-{{ task.desc }}
+{{ task.desc }}  
+
 {{ task.evaluation_criteria }}
 {% endfor %}
 ### Optional tasks:
