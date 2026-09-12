@@ -33,6 +33,7 @@
 
 {{ task.desc }}  
 
+**Evaluation Criteria:**  
 {{ task.evaluation_criteria }}
 {% endfor %}
 ### Optional tasks:
